@@ -1,3 +1,13 @@
+Release 3.4.5.ptc - TBD
+
+Backward compatible changes:
+
+BUGFIXES:
+
+  ZOOKEEPER-1334. Zookeeper 3.4.x is not OSGi compliant - MANIFEST.MF
+  is flawed (Claus Ibsen via phunt)
+
+
 Release 3.4.5 - 2012-09-30
 
 Backward compatible changes:
