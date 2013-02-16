@@ -7,6 +7,9 @@ BUGFIXES:
   ZOOKEEPER-1334. Zookeeper 3.4.x is not OSGi compliant - MANIFEST.MF
   is flawed (Claus Ibsen via phunt)
 
+  ZOOKEEPER-1645. ZooKeeper OSGi package imports not complete
+  (Arnoud Glimmerveen via phunt)
+
 
 Release 3.4.5 - 2012-09-30
 
