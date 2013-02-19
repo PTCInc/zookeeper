@@ -10,6 +10,9 @@ BUGFIXES:
   ZOOKEEPER-1645. ZooKeeper OSGi package imports not complete
   (Arnoud Glimmerveen via phunt)
 
+  ZOOKEEPER-1647. OSGi package import/export changes not applied to
+  bin-jar (Arnoud Glimmerveen via phunt)
+
 
 Release 3.4.5 - 2012-09-30
 
