@@ -4,7 +4,12 @@
 .revision/
 .settings/
 build/
+src/c/aclocal.m4
+src/c/autom4te.cache/
+src/c/configure
 src/c/generated/
+src/c/ltmain.sh
 src/java/generated/
 src/java/lib/ant-eclipse-*
+src/java/lib/jdiff/zookeeper_3.4.6.xml
 src/java/lib/ivy-*
